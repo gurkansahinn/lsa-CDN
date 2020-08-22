@@ -1,22 +1,17 @@
-hAddSimpleModel(-1,19379, -2000, "metalduvar.dff", "metalduvar.txd");
-AddSimpleModel(-1,19379, -2001, "kapiduvar.dff", "kapiduvar.txd");
-AddSimpleModel(-1,19379, -2002, "hurdaarac01.dff", "hurdaarac01.txd");
-AddSimpleModel(-1,19379, -2003, "hurdaarac02.dff", "hurdaarac01.txd");
-AddSimpleModel(-1,19379, -2004, "hurdaarac03.dff", "hurdaarac03.txd");
-AddSimpleModel(-1,19379, -2005, "hurdaotobus01.dff", "hurdaotobus01.txd");
-AddSimpleModel(-1,19379, -2006, "hurdakamyon01.dff", "hurdakamyon01.txd");
-AddSimpleModel(-1,19379, -2007, "askerikamoyn01.dff", "askerikamoyn01.txd");
-AddSimpleModel(-1,19379, -2008, "hurdakamyon02.dff", "hurdakamyon02.txd");
-AddSimpleModel(-1,19379, -2009, "askerikamyon02.dff", "askerikamyon02.txd");
-AddSimpleModel(-1,19379, -2010, "hurdavinc01.dff", "hurdavinc01.txd");
-AddSimpleModel(-1,19379, -2011, "helikopter01.dff", "helikopter01.txd");
-AddSimpleModel(-1,19379, -2012, "hurdatir01.dff", "hurdatir01.txd");
-AddSimpleModel(-1,19379, -2013, "motorhurda.dff", "motorhurda.txd");
-AddSimpleModel(-1,19379, -2014, "hurdaotobus02.dff", "hurdaotobus02.txd");
-AddSimpleModel(-1,19379, -2015, "hurdabusek02.dff", "hurdabusek02.txd");
-AddSimpleModel(-1,19379, -2016, "kampcadir01.dff", "kampcadir01.txd");
 AddSimpleModel(-1, 18865, -2017, "ak74s.dff", "ak74s.txd");
 AddSimpleModel(-1, 18865, -2018, "millitarybackpack.dff", "millitarybackpack.txd");
+
+AddSimpleModel(-1,19480, -2089, "1alex1gatekapi.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2090, "1alex1gatekapiac.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2091, "1wall.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2092, "1alexkuleyapi.dff", "1alexkuleyapi.txd");
+AddSimpleModel(-1,19480, -2093, "1alexkuleyapizemin1.dff", "1alexkuleyapi.txd");
+AddSimpleModel(-1,19480, -2094, "2wall.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2095, "c2.dff", "c2.txd");
+AddSimpleModel(-1,19480, -2096, "c130j_dayz.dff", "c130j_dayz.txd");
+AddSimpleModel(-1,19480, -2097, "civicar.dff", "civicar.txd");
+AddSimpleModel(-1,19480, -2098, "1wood.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2099, "lab1.dff", "lab1.txd");
 
 AddSimpleModel(-1,1254, -2102, "ulogo1.dff", "ulogo1.txd");
 AddSimpleModel(-1,6959, -2104, "borderwall2.dff", "borderwall1.txd");
@@ -49,23 +44,47 @@ AddSimpleModel(-1,1254, -2130, "clinic/checkboard.dff", "clinic/checkboard.txd")
 AddSimpleModel(-1,1254, -2131, "clinic/curtain.dff", "clinic/curtain.txd");
 AddSimpleModel(-1,1254, -2132, "clinic/twdoorwall.dff", "clinic/all_walls.txd");
 
-AddCharModel(160, 25001, "zombie_1.dff", "zombie_1.txd");
-AddCharModel(160, 25002, "zombie_2.dff", "zombie_2.txd");
-AddCharModel(160, 25003, "zombie_3.dff", "zombie_3.txd");
-AddCharModel(160, 25004, "zombie_4.dff", "zombie_4.txd");
-AddCharModel(160, 25005, "zombie_5.dff", "zombie_5.txd");
-AddCharModel(160, 25006, "zombie_6.dff", "zombie_6.txd");
-AddCharModel(160, 25007, "zombie_7.dff", "zombie_7.txd");
-AddCharModel(160, 25008, "zombie_8.dff", "zombie_8.txd");
-AddCharModel(160, 25009, "zombie_9.dff", "zombie_9.txd");
-AddCharModel(160, 25010, "zombie_10.dff", "zombie_10.txd");
-AddCharModel(160, 25011, "zombie_11.dff", "zombie_11.txd");
-AddCharModel(160, 25012, "zombie_12.dff", "zombie_12.txd");
-AddCharModel(160, 25013, "zombie_13.dff", "zombie_13.txd");
-AddCharModel(160, 25014, "zombie_14.dff", "zombie_14.txd");
-AddCharModel(160, 25015, "zombie_15.dff", "zombie_15.txd");
-AddCharModel(160, 25016, "zombie_16.dff", "zombie_16.txd");
-AddCharModel(160, 25017, "zombie_17.dff", "zombie_17.txd");
-AddCharModel(160, 25018, "zombie_18.dff", "zombie_18.txd");
-AddCharModel(160, 25019, "zombie_19.dff", "zombie_19.txd");
-AddCharModel(160, 25020, "zombie_20.dff", "zombie_20.txd");
+AddSimpleModel(-1,19480, -2136, "object72.dff", "object72.txd");
+AddSimpleModel(-1,19480, -2140, "3yertaslak2.dff", "3yertaslak.txd");
+AddSimpleModel(-1,19480, -2141, "3yertaslak.dff", "3yertaslak.txd");
+
+AddSimpleModel(-1,19480, -2144, "5wall.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2145, "fabrikaalex.dff", "fabrikaalex.txd");
+AddSimpleModel(-1,19480, -2146, "bahceekin1.dff", "fabrikaalex.txd");
+AddSimpleModel(-1,19480, -2147, "sulama1.dff", "fabrikaalex.txd");
+
+AddSimpleModel(-1,19480, -2148, "4evler.dff", "4evler.txd");
+AddSimpleModel(-1,19480, -2149, "4evler1.dff", "4evler.txd");
+
+AddSimpleModel(-1,19480, -2150, "3wall.dff", "1alex1gatekapi.txd");
+AddSimpleModel(-1,19480, -2151, "4wall.dff", "1alex1gatekapi.txd");
+
+AddSimpleModel(-1,19480, -2152, "4evler2.dff", "4evler.txd");
+AddSimpleModel(-1,19480, -2153, "4evler3.dff", "4evler.txd");
+AddSimpleModel(-1,19480, -2154, "2park1.dff", "2park.txd");
+AddSimpleModel(-1,19480, -2155, "3yertaslak2cimenlik.dff", "3yertaslak.txd");
+AddSimpleModel(-1,19480, -2156, "object83.dff", "object83.txd");
+AddSimpleModel(-1,19480, -2158, "kontfarm.dff", "kontfarm.txd");
+AddSimpleModel(-1,19480, -2160, "rickheykel.dff", "rickheykel.txd");
+AddSimpleModel(-1,19480, -2161, "2park2sembol.dff", "2park.txd");
+
+AddCharMode(160, 25001, "zombie_1.dff", "zombie_1.txd");
+AddCharMode(160, 25002, "zombie_2.dff", "zombie_2.txd");
+AddCharMode(160, 25003, "zombie_3.dff", "zombie_3.txd");
+AddCharMode(160, 25004, "zombie_4.dff", "zombie_4.txd");
+AddCharMode(160, 25005, "zombie_5.dff", "zombie_5.txd");
+AddCharMode(160, 25006, "zombie_6.dff", "zombie_6.txd");
+AddCharMode(160, 25007, "zombie_7.dff", "zombie_7.txd");
+AddCharMode(160, 25008, "zombie_8.dff", "zombie_8.txd");
+AddCharMode(160, 25009, "zombie_9.dff", "zombie_9.txd");
+AddCharMode(160, 25010, "zombie_10.dff", "zombie_10.txd");
+AddCharMode(160, 25011, "zombie_11.dff", "zombie_11.txd");
+AddCharMode(160, 25012, "zombie_12.dff", "zombie_12.txd");
+AddCharMode(160, 25013, "zombie_13.dff", "zombie_13.txd");
+AddCharMode(160, 25014, "zombie_14.dff", "zombie_14.txd");
+AddCharMode(160, 25015, "zombie_15.dff", "zombie_15.txd");
+AddCharMode(160, 25016, "zombie_16.dff", "zombie_16.txd");
+AddCharMode(160, 25017, "zombie_17.dff", "zombie_17.txd");
+AddCharMode(160, 25018, "zombie_18.dff", "zombie_18.txd");
+AddCharMode(160, 25019, "zombie_19.dff", "zombie_19.txd");
+AddCharMode(160, 25020, "zombie_20.dff", "zombie_20.txd");
