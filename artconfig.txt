@@ -1,5 +1,15 @@
 AddSimpleModel(-1, 18865, -2017, "ak74s.dff", "ak74s.txd");
 AddSimpleModel(-1, 18865, -2018, "millitarybackpack.dff", "millitarybackpack.txd");
+AddSimpleModel(-1, 18865, -2019, "ar15.dff", "ar15.txd");
+AddSimpleModel(-1, 18865, -2020, "glock17.dff", "glock17.txd");
+AddSimpleModel(-1, 18865, -2021, "revolver.dff", "revolver.txd");
+AddSimpleModel(-1, 18865, -2022, "glock22.dff", "glock22.txd");
+AddSimpleModel(-1, 18865, -2023, "remington870.dff", "remington870.txd");
+AddSimpleModel(-1, 18865, -2024, "ump45.dff", "ump45.txd");
+AddSimpleModel(-1, 18865, -2025, "sks.dff", "sks.txd");
+AddSimpleModel(-1, 18865, -2026, "ak74.dff", "ak74.txd");
+AddSimpleModel(-1, 18865, -2027, "canta1.dff", "canta1.txd");
+AddSimpleModel(-1, 18865, -2028a, "canta2.dff", "canta2.txd");
 
 AddSimpleModel(-1,19480, -2089, "1alex1gatekapi.dff", "1alex1gatekapi.txd");
 AddSimpleModel(-1,19480, -2090, "1alex1gatekapiac.dff", "1alex1gatekapi.txd");
@@ -106,7 +116,6 @@ AddCharModel(60, 25032, "E12.dff", "E12.txd");
 AddCharModel(60, 25033, "E13.dff", "E13.txd");
 AddCharModel(60, 25034, "E14.dff", "E14.txd");
 AddCharModel(60, 25035, "E15.dff", "E15.txd");
-AddCharModel(60, 25036, "E16.dff", "E16.txd");
 AddCharModel(60, 25037, "E17.dff", "E17.txd");
 AddCharModel(60, 25038, "E18.dff", "E18.txd");
 AddCharModel(60, 25039, "E19.dff", "E19.txd");
@@ -123,7 +132,36 @@ AddCharModel(60, 25049, "E29.dff", "E29.txd");
 AddCharModel(60, 25050, "E30.dff", "E30.txd");
 AddCharModel(60, 25051, "E31.dff", "E31.txd");
 AddCharModel(60, 25052, "E32.dff", "E32.txd");
-AddCharModel(60, 25053, "E33.dff", "E33.txd");
-AddCharModel(60, 25054, "E34.dff", "E34.txd");
-AddCharModel(60, 25055, "E35.dff", "E35.txd");
 AddCharModel(60, 25056, "E36.dff", "E36.txd");
+AddCharModel(60, 25057, "E37.dff", "E37.txd");
+AddCharModel(60, 25058, "E38.dff", "E38.txd");
+AddCharModel(60, 25059, "E39.dff", "E39.txd");
+AddCharModel(60, 25060, "E40.dff", "E40.txd");
+AddCharModel(60, 25062, "E42.dff", "E42.txd");
+AddCharModel(60, 25064, "E44.dff", "E44.txd");
+AddCharModel(60, 25065, "E45.dff", "E45.txd");
+AddCharModel(60, 25066, "E46.dff", "E46.txd");
+
+// cildi yok erkek / siyah
+AddCharModel(60, 25036, "E16.dff", "E16.txd");
+AddCharModel(60, 25053, "E33.dff", "E33.txd");
+AddCharModel(60, 25055, "E35.dff", "E35.txd");
+AddCharModel(60, 25054, "E34.dff", "E34.txd");
+
+// special
+AddCharModel(60, 25061, "E41.dff", "E41.txd");
+AddCharModel(60, 25063, "E43.dff", "E43.txd");
+
+// kadın
+AddCharModel(211, 25067, "K1.dff", "K1.txd");
+AddCharModel(211, 25068, "K2.dff", "K2.txd");
+AddCharModel(211, 25069, "K3.dff", "K3.txd");
+AddCharModel(211, 25070, "K4.dff", "K4.txd");
+AddCharModel(211, 25071, "K5.dff", "K5.txd");
+AddCharModel(211, 25072, "K6.dff", "K6.txd");
+AddCharModel(211, 25073, "K7.dff", "K7.txd");
+
+// siyah kadın
+AddCharModel(211, 25074, "K8.dff", "K8.txd");
+AddCharModel(211, 25075, "K9.dff", "K9.txd");
+AddCharModel(211, 25076, "K10.dff", "K10.txd");
