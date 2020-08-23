@@ -9,7 +9,7 @@ AddSimpleModel(-1, 18865, -2024, "ump45.dff", "ump45.txd");
 AddSimpleModel(-1, 18865, -2025, "sks.dff", "sks.txd");
 AddSimpleModel(-1, 18865, -2026, "ak74.dff", "ak74.txd");
 AddSimpleModel(-1, 18865, -2027, "canta1.dff", "canta1.txd");
-AddSimpleModel(-1, 18865, -2028a, "canta2.dff", "canta2.txd");
+AddSimpleModel(-1, 18865, -2028, "canta2.dff", "canta2.txd");
 
 AddSimpleModel(-1,19480, -2089, "1alex1gatekapi.dff", "1alex1gatekapi.txd");
 AddSimpleModel(-1,19480, -2090, "1alex1gatekapiac.dff", "1alex1gatekapi.txd");
@@ -165,3 +165,17 @@ AddCharModel(211, 25073, "K7.dff", "K7.txd");
 AddCharModel(211, 25074, "K8.dff", "K8.txd");
 AddCharModel(211, 25075, "K9.dff", "K9.txd");
 AddCharModel(211, 25076, "K10.dff", "K10.txd");
+
+// lscds
+AddCharModel(60, 25077, "lscd1.dff", "lscd1.txd");
+AddCharModel(60, 25078, "lscd2.dff", "lscd2.txd");
+AddCharModel(60, 25079, "lscd3.dff", "lscd3.txd");
+AddCharModel(60, 25080, "lscd4.dff", "lscd4.txd");
+AddCharModel(60, 25081, "lscd5.dff", "lscd5.txd");
+
+// national
+AddCharModel(60, 25082, "army1.dff", "army1.txd");
+AddCharModel(60, 25083, "army2.dff", "arm2.txd");
+AddCharModel(60, 25084, "army3.dff", "army3.txd");
+AddCharModel(211, 25085, "armyg4.dff", "armyg4.txd");
+AddCharModel(60, 25086, "army5.dff", "army5.txd");
